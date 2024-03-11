@@ -1,0 +1,12 @@
+body {
+   font-family: "Lucida Handwriting", cursive;
+}
+h1, h2 {
+   color: green;
+}
+ul {
+   background-color: yellow;
+}
+ol {
+   background-color: orange;
+}
