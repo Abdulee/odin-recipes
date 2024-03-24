@@ -1,12 +1,25 @@
 body {
    font-family: "Lucida Handwriting", cursive;
+   background-color: yellow;
+}
+div {
+   border: 5px green solid;
+   margin: 20px 300px;
+   padding: 5px;
+   background-color: aquamarine;
 }
 h1, h2 {
+   text-align: center;
    color: green;
 }
 ul {
-   background-color: yellow;
+   background-color: magenta;
 }
 ol {
    background-color: orange;
+}
+img {
+   display: block;
+   margin: auto;
+   align-content: center;
 }
